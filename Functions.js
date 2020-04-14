@@ -1,3 +1,3 @@
 functions display() {
-var data = new formData();
+var data = new formData(arg1);
 }
